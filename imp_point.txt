@@ -1,0 +1,3 @@
+1)Libopencm3 is an open-source firmware library for various ARM Cortex-M microcontrollers. It provides a set of functions and drivers to facilitate the development of embedded systems using these microcontrollers. Libopencm3 abstracts away low-level hardware details and provides a consistent interface for accessing peripherals, such as GPIOs, timers, UARTs, SPI, I2C, and more.
+
+2)

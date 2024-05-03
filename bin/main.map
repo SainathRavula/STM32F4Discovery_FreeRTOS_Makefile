@@ -1,0 +1,1945 @@
+Archive member included to satisfy reference by file (symbol)
+
+inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+                              obj/src/main.o (gpio_toggle)
+inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+                              obj/src/main.o (gpio_mode_setup)
+inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+                              obj/src/main.o (rcc_periph_clock_enable)
+inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                              obj/src/main.o (rcc_clock_setup_pll)
+inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+                              (reset_handler)
+inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+                              inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o) (flash_set_ws)
+inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+                              inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o) (flash_dcache_enable)
+inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+                              inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o) (pwr_set_vos_scale)
+/opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+                              obj/inc/FreeRTOS/queue.o (memcpy)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .group         0x0000000000000000        0xc obj/src/main.o
+ .text          0x0000000000000000        0x0 obj/src/main.o
+ .data          0x0000000000000000        0x0 obj/src/main.o
+ .bss           0x0000000000000000        0x0 obj/src/main.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .text          0x0000000000000000        0x0 obj/inc/FreeRTOS/tasks.o
+ .data          0x0000000000000000        0x0 obj/inc/FreeRTOS/tasks.o
+ .bss           0x0000000000000000        0x0 obj/inc/FreeRTOS/tasks.o
+ .text.vTaskDelete
+                0x0000000000000000       0xbc obj/inc/FreeRTOS/tasks.o
+ .text.uxTaskPriorityGet
+                0x0000000000000000       0x20 obj/inc/FreeRTOS/tasks.o
+ .text.uxTaskPriorityGetFromISR
+                0x0000000000000000       0x28 obj/inc/FreeRTOS/tasks.o
+ .text.vTaskPrioritySet
+                0x0000000000000000       0xbc obj/inc/FreeRTOS/tasks.o
+ .text.vTaskResume
+                0x0000000000000000       0x8c obj/inc/FreeRTOS/tasks.o
+ .text.xTaskResumeFromISR
+                0x0000000000000000       0xa0 obj/inc/FreeRTOS/tasks.o
+ .text.vTaskEndScheduler
+                0x0000000000000000       0x20 obj/inc/FreeRTOS/tasks.o
+ .text.xTaskGetTickCount
+                0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .text.xTaskGetTickCountFromISR
+                0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .text.uxTaskGetNumberOfTasks
+                0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .text.pcTaskGetName
+                0x0000000000000000       0x10 obj/inc/FreeRTOS/tasks.o
+ .text.xTaskDelayUntil
+                0x0000000000000000       0x58 obj/inc/FreeRTOS/tasks.o
+ .text.xTaskCatchUpTicks
+                0x0000000000000000       0x1c obj/inc/FreeRTOS/tasks.o
+ .text.vTaskSuspend
+                0x0000000000000000       0xbc obj/inc/FreeRTOS/tasks.o
+ .text.vTaskPlaceOnEventList
+                0x0000000000000000       0x20 obj/inc/FreeRTOS/tasks.o
+ .text.vTaskPlaceOnUnorderedEventList
+                0x0000000000000000       0x28 obj/inc/FreeRTOS/tasks.o
+ .text.xTaskRemoveFromEventList
+                0x0000000000000000       0x74 obj/inc/FreeRTOS/tasks.o
+ .text.vTaskRemoveFromUnorderedEventList
+                0x0000000000000000       0x5c obj/inc/FreeRTOS/tasks.o
+ .text.vTaskSetTimeOutState
+                0x0000000000000000       0x24 obj/inc/FreeRTOS/tasks.o
+ .text.vTaskInternalSetTimeOutState
+                0x0000000000000000       0x18 obj/inc/FreeRTOS/tasks.o
+ .text.xTaskCheckForTimeOut
+                0x0000000000000000       0x50 obj/inc/FreeRTOS/tasks.o
+ .text.vTaskMissedYield
+                0x0000000000000000        0xc obj/inc/FreeRTOS/tasks.o
+ .text.uxTaskResetEventItemValue
+                0x0000000000000000       0x18 obj/inc/FreeRTOS/tasks.o
+ .text.ulTaskGenericNotifyTake
+                0x0000000000000000       0x7c obj/inc/FreeRTOS/tasks.o
+ .text.xTaskGenericNotifyWait
+                0x0000000000000000       0xac obj/inc/FreeRTOS/tasks.o
+ .text.xTaskGenericNotify
+                0x0000000000000000       0xd0 obj/inc/FreeRTOS/tasks.o
+ .text.xTaskGenericNotifyFromISR
+                0x0000000000000000       0xdc obj/inc/FreeRTOS/tasks.o
+ .text.vTaskGenericNotifyGiveFromISR
+                0x0000000000000000       0xa0 obj/inc/FreeRTOS/tasks.o
+ .text.xTaskGenericNotifyStateClear
+                0x0000000000000000       0x30 obj/inc/FreeRTOS/tasks.o
+ .text.ulTaskGenericNotifyValueClear
+                0x0000000000000000       0x30 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000      0xa6c obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000       0x22 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000      0x103 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000       0x6a obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000      0x1df obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000       0xe8 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000      0x15a obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000       0xe3 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000       0x28 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000       0x1f obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000       0x12 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000      0x519 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000       0xb5 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000000000      0x120 obj/inc/FreeRTOS/tasks.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/list.o
+ .text          0x0000000000000000        0x0 obj/inc/FreeRTOS/list.o
+ .data          0x0000000000000000        0x0 obj/inc/FreeRTOS/list.o
+ .bss           0x0000000000000000        0x0 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000      0xa6c obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x1e obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x22 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x5e obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x5c obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x35 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x34 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x16 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000      0x10e obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x86 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x16 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x43 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x57 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x34 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x10 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x58 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000      0x182 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000      0x35d obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x22 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000      0x103 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x6a obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000      0x1df obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0xe8 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000      0x15a obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0xe3 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x28 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x1f obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0x12 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000      0x519 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x0000000000000000       0xb5 obj/inc/FreeRTOS/list.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .text          0x0000000000000000        0x0 obj/inc/FreeRTOS/queue.o
+ .data          0x0000000000000000        0x0 obj/inc/FreeRTOS/queue.o
+ .bss           0x0000000000000000        0x0 obj/inc/FreeRTOS/queue.o
+ .text.prvIsQueueEmpty
+                0x0000000000000000       0x16 obj/inc/FreeRTOS/queue.o
+ .text.prvCopyDataToQueue
+                0x0000000000000000       0x56 obj/inc/FreeRTOS/queue.o
+ .text.prvCopyDataFromQueue
+                0x0000000000000000       0x2c obj/inc/FreeRTOS/queue.o
+ .text.prvUnlockQueue
+                0x0000000000000000       0x70 obj/inc/FreeRTOS/queue.o
+ .text.xQueueGenericReset
+                0x0000000000000000       0x6a obj/inc/FreeRTOS/queue.o
+ .text.xQueueGenericCreate
+                0x0000000000000000       0x2e obj/inc/FreeRTOS/queue.o
+ .text.xQueueGenericSend
+                0x0000000000000000      0x104 obj/inc/FreeRTOS/queue.o
+ .text.xQueueGenericSendFromISR
+                0x0000000000000000       0x6a obj/inc/FreeRTOS/queue.o
+ .text.xQueueGiveFromISR
+                0x0000000000000000       0x5c obj/inc/FreeRTOS/queue.o
+ .text.xQueueReceive
+                0x0000000000000000       0xee obj/inc/FreeRTOS/queue.o
+ .text.xQueueSemaphoreTake
+                0x0000000000000000       0xe2 obj/inc/FreeRTOS/queue.o
+ .text.xQueuePeek
+                0x0000000000000000       0xee obj/inc/FreeRTOS/queue.o
+ .text.xQueueReceiveFromISR
+                0x0000000000000000       0x68 obj/inc/FreeRTOS/queue.o
+ .text.xQueuePeekFromISR
+                0x0000000000000000       0x30 obj/inc/FreeRTOS/queue.o
+ .text.uxQueueMessagesWaiting
+                0x0000000000000000       0x16 obj/inc/FreeRTOS/queue.o
+ .text.uxQueueSpacesAvailable
+                0x0000000000000000       0x1a obj/inc/FreeRTOS/queue.o
+ .text.uxQueueMessagesWaitingFromISR
+                0x0000000000000000        0x4 obj/inc/FreeRTOS/queue.o
+ .text.xQueueIsQueueEmptyFromISR
+                0x0000000000000000        0xa obj/inc/FreeRTOS/queue.o
+ .text.xQueueIsQueueFullFromISR
+                0x0000000000000000        0xc obj/inc/FreeRTOS/queue.o
+ .text.vQueueAddToRegistry
+                0x0000000000000000       0x38 obj/inc/FreeRTOS/queue.o
+ .text.pcQueueGetName
+                0x0000000000000000       0x24 obj/inc/FreeRTOS/queue.o
+ .text.vQueueUnregisterQueue
+                0x0000000000000000       0x28 obj/inc/FreeRTOS/queue.o
+ .text.vQueueDelete
+                0x0000000000000000       0x12 obj/inc/FreeRTOS/queue.o
+ .bss.xQueueRegistry
+                0x0000000000000000       0x40 obj/inc/FreeRTOS/queue.o
+ .debug_info    0x0000000000000000     0x1918 obj/inc/FreeRTOS/queue.o
+ .debug_abbrev  0x0000000000000000      0x33e obj/inc/FreeRTOS/queue.o
+ .debug_loc     0x0000000000000000     0x12f4 obj/inc/FreeRTOS/queue.o
+ .debug_aranges
+                0x0000000000000000       0xd0 obj/inc/FreeRTOS/queue.o
+ .debug_ranges  0x0000000000000000      0x260 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000      0x1f0 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000      0xa6c obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x1e obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x22 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x5e obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x5c obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x35 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x34 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x16 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000      0x10e obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x86 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x16 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x43 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x57 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x34 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x10 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x58 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000      0x182 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000      0x35d obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x22 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x16 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x35 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000      0x103 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x6a obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000      0x1df obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0xe8 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000      0x15a obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0xe3 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x28 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x1f obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x12 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000      0x519 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0xb5 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000      0x120 obj/inc/FreeRTOS/queue.o
+ .debug_macro   0x0000000000000000       0x80 obj/inc/FreeRTOS/queue.o
+ .debug_line    0x0000000000000000     0x10f9 obj/inc/FreeRTOS/queue.o
+ .debug_str     0x0000000000000000     0xc373 obj/inc/FreeRTOS/queue.o
+ .comment       0x0000000000000000       0x4a obj/inc/FreeRTOS/queue.o
+ .debug_frame   0x0000000000000000      0x2a8 obj/inc/FreeRTOS/queue.o
+ .ARM.attributes
+                0x0000000000000000       0x34 obj/inc/FreeRTOS/queue.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/timers.o
+ .text          0x0000000000000000        0x0 obj/inc/FreeRTOS/timers.o
+ .data          0x0000000000000000        0x0 obj/inc/FreeRTOS/timers.o
+ .bss           0x0000000000000000        0x0 obj/inc/FreeRTOS/timers.o
+ .debug_info    0x0000000000000000       0x6f obj/inc/FreeRTOS/timers.o
+ .debug_abbrev  0x0000000000000000       0x29 obj/inc/FreeRTOS/timers.o
+ .debug_aranges
+                0x0000000000000000       0x18 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000      0x1ab obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000      0xa6c obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x1e obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x22 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x5e obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x5c obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x35 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x34 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x16 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000      0x10e obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x86 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x16 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x43 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x57 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x34 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x10 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x58 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000      0x182 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000      0x35d obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x22 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000      0x103 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x6a obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000      0x1df obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0xe8 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000      0x15a obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0xe3 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x28 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x1f obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x12 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000      0x519 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0xb5 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000      0x120 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x80 obj/inc/FreeRTOS/timers.o
+ .debug_macro   0x0000000000000000       0x97 obj/inc/FreeRTOS/timers.o
+ .debug_line    0x0000000000000000      0x310 obj/inc/FreeRTOS/timers.o
+ .debug_str     0x0000000000000000     0xc192 obj/inc/FreeRTOS/timers.o
+ .comment       0x0000000000000000       0x4a obj/inc/FreeRTOS/timers.o
+ .ARM.attributes
+                0x0000000000000000       0x34 obj/inc/FreeRTOS/timers.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .text          0x0000000000000000        0x0 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .data          0x0000000000000000        0x0 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .bss           0x0000000000000000        0x0 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .text.vPortEndScheduler
+                0x0000000000000000        0x2 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000      0xa6c obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000      0x16d obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000       0x22 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000       0x56 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000       0x51 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000      0x103 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000       0x6a obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000      0x1df obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000       0xe8 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000      0x15a obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000       0xe3 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000       0x28 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000       0x1f obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000       0x12 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000      0x519 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000       0xb5 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x0000000000000000      0x120 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .text          0x0000000000000000        0x0 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .data          0x0000000000000000        0x0 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .bss           0x0000000000000000        0x0 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .text.xPortGetFreeHeapSize
+                0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .text.xPortGetMinimumEverFreeHeapSize
+                0x0000000000000000        0xc obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .text.vPortInitialiseBlocks
+                0x0000000000000000        0x2 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .text.vPortGetHeapStats
+                0x0000000000000000       0x84 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000      0xa6c obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x1e obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x22 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x5e obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x5c obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x35 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x34 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x16 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000      0x10e obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x86 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x16 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x43 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x57 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x34 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x10 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x58 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000      0x182 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000      0x35d obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x22 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000      0x103 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x6a obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000      0x1df obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0xe8 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000      0x15a obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0xe3 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x28 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x1f obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0x12 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000      0x519 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000       0xb5 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000000000      0x120 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .data          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .bss           0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text.gpio_set
+                0x0000000000000000        0x4 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text.gpio_clear
+                0x0000000000000000        0x6 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text.gpio_get
+                0x0000000000000000        0x6 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text.gpio_port_read
+                0x0000000000000000        0x6 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text.gpio_port_write
+                0x0000000000000000        0x4 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .text.gpio_port_config_lock
+                0x0000000000000000       0x10 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000      0xa6c inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0x56 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0x51 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000      0x103 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0x6a inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000      0x1df inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0xe8 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0x76 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000      0x279 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0x76 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000      0x37e inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000000000       0xca inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .text          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .data          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .bss           0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .text.gpio_set_output_options
+                0x0000000000000000       0x36 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .text.gpio_set_af
+                0x0000000000000000       0x58 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000      0xa6c inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000       0x56 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000       0x51 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000      0x103 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000       0x6a inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000      0x1df inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000       0xe8 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000       0x76 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000      0x279 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000       0x76 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000      0x37e inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000000000       0xca inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .data          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .bss           0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_peripheral_enable_clock
+                0x0000000000000000        0x8 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_peripheral_disable_clock
+                0x0000000000000000        0xa inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_peripheral_reset
+                0x0000000000000000        0x8 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_peripheral_clear_reset
+                0x0000000000000000        0xa inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_periph_clock_disable
+                0x0000000000000000       0x1e inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_periph_reset_pulse
+                0x0000000000000000       0x24 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_periph_reset_hold
+                0x0000000000000000        0x4 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_periph_reset_release
+                0x0000000000000000        0x4 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_set_mco
+                0x0000000000000000       0x18 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_osc_bypass_enable
+                0x0000000000000000       0x30 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_osc_bypass_disable
+                0x0000000000000000       0x30 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .text.rcc_get_div_from_hpre
+                0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000      0xa6c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0x56 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0x51 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000      0x103 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0x6a inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000      0x1df inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0xe8 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0x76 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000      0x279 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0x8e inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000       0x28 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000000000      0xcea inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .data          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .bss           0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_osc_ready_int_clear
+                0x0000000000000000       0x6c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_osc_ready_int_enable
+                0x0000000000000000       0x6c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_osc_ready_int_disable
+                0x0000000000000000       0x6c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_osc_ready_int_flag
+                0x0000000000000000       0x6c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_css_int_clear
+                0x0000000000000000       0x14 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_css_int_flag
+                0x0000000000000000       0x10 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_wait_for_sysclk_status
+                0x0000000000000000       0x40 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_css_enable
+                0x0000000000000000       0x14 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_css_disable
+                0x0000000000000000       0x14 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_plli2s_config
+                0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_pllsai_config
+                0x0000000000000000       0x2c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_pllsai_postscalers
+                0x0000000000000000       0x28 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_set_pll_source
+                0x0000000000000000       0x18 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_set_rtcpre
+                0x0000000000000000       0x18 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_system_clock_source
+                0x0000000000000000       0x10 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_clock_setup_hse_3v3
+                0x0000000000000000        0x4 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_get_usart_clk_freq
+                0x0000000000000000       0x20 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_get_timer_clk_freq
+                0x0000000000000000       0x34 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_get_i2c_clk_freq
+                0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .text.rcc_get_spi_clk_freq
+                0x0000000000000000       0x20 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .rodata.rcc_hse_12mhz_3v3
+                0x0000000000000000       0x54 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .rodata.rcc_hse_16mhz_3v3
+                0x0000000000000000       0x54 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .rodata.rcc_hse_25mhz_3v3
+                0x0000000000000000       0x54 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .rodata.rcc_hsi_configs
+                0x0000000000000000       0x54 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000      0xa6c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x56 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x51 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000      0x103 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x6a inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000      0x1df inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000       0xe8 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x76 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000      0x279 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x8e inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000       0x28 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000000000      0xcea inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .text          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .data          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .bss           0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000000000      0xa6c inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000000000       0x76 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000000000       0x56 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000000000       0x51 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000000000      0x103 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000000000       0x6a inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000000000      0x1df inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000000000       0xe8 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .text          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .data          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .bss           0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .text.flash_prefetch_enable
+                0x0000000000000000       0x14 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .text.flash_prefetch_disable
+                0x0000000000000000       0x14 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .text.flash_unlock_option_bytes
+                0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000      0xa6c inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000       0x56 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000       0x51 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000      0x103 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000       0x6a inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000      0x1df inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000       0xe8 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000       0x76 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000      0x279 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000      0x143 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000000000       0x10 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .text          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .data          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .bss           0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .text.flash_dcache_reset
+                0x0000000000000000       0x14 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .text.flash_icache_reset
+                0x0000000000000000       0x14 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000      0xa6c inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000       0x56 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000       0x51 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000      0x103 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000       0x6a inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000      0x1df inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000       0xe8 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000       0x76 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000      0x279 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000      0x143 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000000000       0x10 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .group         0x0000000000000000        0xc inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .text          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .data          0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .bss           0x0000000000000000        0x0 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000      0xa6c inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000       0x56 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000       0x51 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000      0x103 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000       0x6a inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000      0x1df inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000       0x22 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000       0xe8 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000       0x76 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000      0x279 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000       0x8e inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .debug_macro   0x0000000000000000       0x28 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+ .text          0x0000000000000000      0x134 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000000       0x1c /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000008000000 0x0000000000100000 xr
+ram              0x0000000020000000 0x0000000000020000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD obj/src/main.o
+LOAD obj/inc/FreeRTOS/tasks.o
+LOAD obj/inc/FreeRTOS/list.o
+LOAD obj/inc/FreeRTOS/queue.o
+LOAD obj/inc/FreeRTOS/timers.o
+LOAD obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+LOAD obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+LOAD inc/libopencm3/lib/libopencm3_stm32f4.a
+START GROUP
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+START GROUP
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libg.a
+LOAD /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+END GROUP
+
+.text           0x0000000008000000     0x1120
+ *(.vectors)
+ .vectors       0x0000000008000000      0x1ac inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+                0x0000000008000000                vector_table
+ *(.text*)
+ .text.task2    0x00000000080001ac       0x1c obj/src/main.o
+ .text.task1    0x00000000080001c8       0x1c obj/src/main.o
+ .text.startup.main
+                0x00000000080001e4       0x60 obj/src/main.o
+                0x00000000080001e4                main
+ .text.prvAddCurrentTaskToDelayedList
+                0x0000000008000244       0x88 obj/inc/FreeRTOS/tasks.o
+ .text.prvResetNextTaskUnblockTime
+                0x00000000080002cc       0x24 obj/inc/FreeRTOS/tasks.o
+ .text.prvIdleTask
+                0x00000000080002f0       0x68 obj/inc/FreeRTOS/tasks.o
+ .text.xTaskCreate
+                0x0000000008000358      0x1a0 obj/inc/FreeRTOS/tasks.o
+                0x0000000008000358                xTaskCreate
+ .text.vTaskStartScheduler
+                0x00000000080004f8       0x64 obj/inc/FreeRTOS/tasks.o
+                0x00000000080004f8                vTaskStartScheduler
+ .text.vTaskSuspendAll
+                0x000000000800055c       0x10 obj/inc/FreeRTOS/tasks.o
+                0x000000000800055c                vTaskSuspendAll
+ .text.xTaskIncrementTick
+                0x000000000800056c      0x118 obj/inc/FreeRTOS/tasks.o
+                0x000000000800056c                xTaskIncrementTick
+ .text.xTaskResumeAll
+                0x0000000008000684       0xd8 obj/inc/FreeRTOS/tasks.o
+                0x0000000008000684                xTaskResumeAll
+ .text.vTaskDelay
+                0x000000000800075c       0x2e obj/inc/FreeRTOS/tasks.o
+                0x000000000800075c                vTaskDelay
+ *fill*         0x000000000800078a        0x2 
+ .text.vTaskSwitchContext
+                0x000000000800078c       0x5c obj/inc/FreeRTOS/tasks.o
+                0x000000000800078c                vTaskSwitchContext
+ .text.vListInitialise
+                0x00000000080007e8       0x16 obj/inc/FreeRTOS/list.o
+                0x00000000080007e8                vListInitialise
+ .text.vListInitialiseItem
+                0x00000000080007fe        0x6 obj/inc/FreeRTOS/list.o
+                0x00000000080007fe                vListInitialiseItem
+ .text.vListInsertEnd
+                0x0000000008000804       0x18 obj/inc/FreeRTOS/list.o
+                0x0000000008000804                vListInsertEnd
+ .text.vListInsert
+                0x000000000800081c       0x2e obj/inc/FreeRTOS/list.o
+                0x000000000800081c                vListInsert
+ .text.uxListRemove
+                0x000000000800084a       0x20 obj/inc/FreeRTOS/list.o
+                0x000000000800084a                uxListRemove
+ .text.prvTaskExitError
+                0x000000000800086a       0x20 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ *fill*         0x000000000800088a        0x2 
+ .text.prvPortStartFirstTask
+                0x000000000800088c       0x28 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .text.vPortEnableVFP
+                0x00000000080008b4       0x14 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .text.pxPortInitialiseStack
+                0x00000000080008c8       0x2c obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x00000000080008c8                pxPortInitialiseStack
+ *fill*         0x00000000080008f4        0xc 
+ .text.sv_call_handler
+                0x0000000008000900       0x24 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000008000900                sv_call_handler
+ .text.vPortEnterCritical
+                0x0000000008000924       0x20 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000008000924                vPortEnterCritical
+ .text.vPortExitCritical
+                0x0000000008000944       0x14 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000008000944                vPortExitCritical
+ *fill*         0x0000000008000958        0x8 
+ .text.pend_sv_handler
+                0x0000000008000960       0x64 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000008000960                pend_sv_handler
+ .text.sys_tick_handler
+                0x00000000080009c4       0x2c obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x00000000080009c4                sys_tick_handler
+ .text.vPortSetupTimerInterrupt
+                0x00000000080009f0       0x18 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x00000000080009f0                vPortSetupTimerInterrupt
+ .text.xPortStartScheduler
+                0x0000000008000a08       0x4c obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                0x0000000008000a08                xPortStartScheduler
+ .text.prvInsertBlockIntoFreeList
+                0x0000000008000a54       0x48 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .text.pvPortMalloc
+                0x0000000008000a9c      0x108 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+                0x0000000008000a9c                pvPortMalloc
+ .text.vPortFree
+                0x0000000008000ba4       0x58 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+                0x0000000008000ba4                vPortFree
+ .text.gpio_toggle
+                0x0000000008000bfc       0x12 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+                0x0000000008000bfc                gpio_toggle
+ .text.gpio_mode_setup
+                0x0000000008000c0e       0x40 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+                0x0000000008000c0e                gpio_mode_setup
+ .text.rcc_periph_clock_enable
+                0x0000000008000c4e       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+                0x0000000008000c4e                rcc_periph_clock_enable
+ *fill*         0x0000000008000c6a        0x2 
+ .text.rcc_is_osc_ready
+                0x0000000008000c6c       0x64 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000008000c6c                rcc_is_osc_ready
+ .text.rcc_wait_for_osc_ready
+                0x0000000008000cd0       0x10 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000008000cd0                rcc_wait_for_osc_ready
+ .text.rcc_osc_on
+                0x0000000008000ce0       0x74 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000008000ce0                rcc_osc_on
+ .text.rcc_osc_off
+                0x0000000008000d54       0x74 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000008000d54                rcc_osc_off
+ .text.rcc_set_sysclk_source
+                0x0000000008000dc8       0x18 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000008000dc8                rcc_set_sysclk_source
+ .text.rcc_set_ppre2
+                0x0000000008000de0       0x18 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000008000de0                rcc_set_ppre2
+ .text.rcc_set_ppre1
+                0x0000000008000df8       0x18 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000008000df8                rcc_set_ppre1
+ .text.rcc_set_hpre
+                0x0000000008000e10       0x18 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000008000e10                rcc_set_hpre
+ .text.rcc_set_main_pll_hsi
+                0x0000000008000e28       0x44 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000008000e28                rcc_set_main_pll_hsi
+ .text.rcc_set_main_pll_hse
+                0x0000000008000e6c       0x44 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000008000e6c                rcc_set_main_pll_hse
+ .text.rcc_clock_setup_pll
+                0x0000000008000eb0       0xe4 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000008000eb0                rcc_clock_setup_pll
+ .text.blocking_handler
+                0x0000000008000f94        0x2 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+                0x0000000008000f94                dma2_stream1_isr
+                0x0000000008000f94                tim8_brk_tim12_isr
+                0x0000000008000f94                dma1_stream7_isr
+                0x0000000008000f94                usart3_isr
+                0x0000000008000f94                tim7_isr
+                0x0000000008000f94                dma2d_isr
+                0x0000000008000f94                uart8_isr
+                0x0000000008000f94                dma1_stream2_isr
+                0x0000000008000f94                otg_hs_isr
+                0x0000000008000f94                blocking_handler
+                0x0000000008000f94                tim5_isr
+                0x0000000008000f94                rtc_wkup_isr
+                0x0000000008000f94                otg_fs_isr
+                0x0000000008000f94                spi1_isr
+                0x0000000008000f94                i2c3_er_isr
+                0x0000000008000f94                exti2_isr
+                0x0000000008000f94                spi5_isr
+                0x0000000008000f94                usb_fs_wkup_isr
+                0x0000000008000f94                tamp_stamp_isr
+                0x0000000008000f94                can1_rx1_isr
+                0x0000000008000f94                dma2_stream0_isr
+                0x0000000008000f94                usart1_isr
+                0x0000000008000f94                i2c3_ev_isr
+                0x0000000008000f94                usage_fault_handler
+                0x0000000008000f94                can2_rx0_isr
+                0x0000000008000f94                dma1_stream6_isr
+                0x0000000008000f94                can2_rx1_isr
+                0x0000000008000f94                can1_sce_isr
+                0x0000000008000f94                tim1_cc_isr
+                0x0000000008000f94                can1_tx_isr
+                0x0000000008000f94                tim1_up_tim10_isr
+                0x0000000008000f94                sdio_isr
+                0x0000000008000f94                eth_isr
+                0x0000000008000f94                spi6_isr
+                0x0000000008000f94                dma2_stream5_isr
+                0x0000000008000f94                pvd_isr
+                0x0000000008000f94                can1_rx0_isr
+                0x0000000008000f94                rcc_isr
+                0x0000000008000f94                dma2_stream3_isr
+                0x0000000008000f94                flash_isr
+                0x0000000008000f94                uart4_isr
+                0x0000000008000f94                lcd_tft_isr
+                0x0000000008000f94                rtc_alarm_isr
+                0x0000000008000f94                exti15_10_isr
+                0x0000000008000f94                hash_rng_isr
+                0x0000000008000f94                tim1_trg_com_tim11_isr
+                0x0000000008000f94                hard_fault_handler
+                0x0000000008000f94                exti1_isr
+                0x0000000008000f94                i2c1_ev_isr
+                0x0000000008000f94                usart6_isr
+                0x0000000008000f94                spi2_isr
+                0x0000000008000f94                cryp_isr
+                0x0000000008000f94                nvic_wwdg_isr
+                0x0000000008000f94                dma1_stream1_isr
+                0x0000000008000f94                dma2_stream4_isr
+                0x0000000008000f94                exti3_isr
+                0x0000000008000f94                tim3_isr
+                0x0000000008000f94                usart2_isr
+                0x0000000008000f94                sai1_isr
+                0x0000000008000f94                fpu_isr
+                0x0000000008000f94                dma1_stream4_isr
+                0x0000000008000f94                i2c2_er_isr
+                0x0000000008000f94                i2c2_ev_isr
+                0x0000000008000f94                uart5_isr
+                0x0000000008000f94                dma2_stream6_isr
+                0x0000000008000f94                spi4_isr
+                0x0000000008000f94                adc_isr
+                0x0000000008000f94                dma2_stream7_isr
+                0x0000000008000f94                tim8_up_tim13_isr
+                0x0000000008000f94                fsmc_isr
+                0x0000000008000f94                exti4_isr
+                0x0000000008000f94                tim6_dac_isr
+                0x0000000008000f94                dma1_stream3_isr
+                0x0000000008000f94                tim8_trg_com_tim14_isr
+                0x0000000008000f94                mem_manage_handler
+                0x0000000008000f94                lcd_tft_err_isr
+                0x0000000008000f94                can2_tx_isr
+                0x0000000008000f94                exti9_5_isr
+                0x0000000008000f94                tim1_brk_tim9_isr
+                0x0000000008000f94                uart7_isr
+                0x0000000008000f94                can2_sce_isr
+                0x0000000008000f94                tim4_isr
+                0x0000000008000f94                otg_hs_wkup_isr
+                0x0000000008000f94                i2c1_er_isr
+                0x0000000008000f94                dma1_stream0_isr
+                0x0000000008000f94                tim8_cc_isr
+                0x0000000008000f94                dcmi_isr
+                0x0000000008000f94                dma2_stream2_isr
+                0x0000000008000f94                eth_wkup_isr
+                0x0000000008000f94                bus_fault_handler
+                0x0000000008000f94                otg_hs_ep1_out_isr
+                0x0000000008000f94                spi3_isr
+                0x0000000008000f94                dma1_stream5_isr
+                0x0000000008000f94                otg_hs_ep1_in_isr
+                0x0000000008000f94                tim2_isr
+                0x0000000008000f94                exti0_isr
+ *fill*         0x0000000008000f96        0x2 
+ .text.reset_handler
+                0x0000000008000f98       0xa0 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+                0x0000000008000f98                reset_handler
+ .text.null_handler
+                0x0000000008001038        0x2 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+                0x0000000008001038                null_handler
+                0x0000000008001038                debug_monitor_handler
+                0x0000000008001038                nmi_handler
+ *fill*         0x000000000800103a        0x2 
+ .text.flash_set_ws
+                0x000000000800103c       0x18 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+                0x000000000800103c                flash_set_ws
+ .text.flash_dcache_enable
+                0x0000000008001054       0x14 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+                0x0000000008001054                flash_dcache_enable
+ .text.flash_dcache_disable
+                0x0000000008001068       0x14 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+                0x0000000008001068                flash_dcache_disable
+ .text.flash_icache_enable
+                0x000000000800107c       0x14 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+                0x000000000800107c                flash_icache_enable
+ .text.flash_icache_disable
+                0x0000000008001090       0x14 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+                0x0000000008001090                flash_icache_disable
+ .text.pwr_set_vos_scale
+                0x00000000080010a4       0x18 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+                0x00000000080010a4                pwr_set_vos_scale
+                0x00000000080010bc                . = ALIGN (0x4)
+ *(.rodata*)
+ .rodata.main.str1.1
+                0x00000000080010bc        0xa obj/src/main.o
+ .rodata.vTaskStartScheduler.str1.1
+                0x00000000080010c6        0x5 obj/inc/FreeRTOS/tasks.o
+ *fill*         0x00000000080010cb        0x1 
+ .rodata.rcc_hse_8mhz_3v3
+                0x00000000080010cc       0x54 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x00000000080010cc                rcc_hse_8mhz_3v3
+                0x0000000008001120                . = ALIGN (0x4)
+
+.glue_7         0x0000000008001120        0x0
+ .glue_7        0x0000000008001120        0x0 linker stubs
+
+.glue_7t        0x0000000008001120        0x0
+ .glue_7t       0x0000000008001120        0x0 linker stubs
+
+.vfp11_veneer   0x0000000008001120        0x0
+ .vfp11_veneer  0x0000000008001120        0x0 linker stubs
+
+.v4_bx          0x0000000008001120        0x0
+ .v4_bx         0x0000000008001120        0x0 linker stubs
+
+.iplt           0x0000000008001120        0x0
+ .iplt          0x0000000008001120        0x0 obj/src/main.o
+
+.rel.dyn        0x0000000008001120        0x0
+ .rel.iplt      0x0000000008001120        0x0 obj/src/main.o
+
+.preinit_array  0x0000000008001120        0x0
+                0x0000000008001120                . = ALIGN (0x4)
+                0x0000000008001120                __preinit_array_start = .
+ *(.preinit_array)
+                0x0000000008001120                __preinit_array_end = .
+
+.init_array     0x0000000008001120        0x0
+                0x0000000008001120                . = ALIGN (0x4)
+                0x0000000008001120                __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+                0x0000000008001120                __init_array_end = .
+
+.fini_array     0x0000000008001120        0x0
+                0x0000000008001120                . = ALIGN (0x4)
+                0x0000000008001120                __fini_array_start = .
+ *(.fini_array)
+ *(SORT_BY_NAME(.fini_array.*))
+                0x0000000008001120                __fini_array_end = .
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x0000000008001120        0x0
+                0x0000000008001120                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000008001120                __exidx_end = .
+                0x0000000008001120                . = ALIGN (0x4)
+                0x0000000008001120                _etext = .
+
+.noinit
+ *(.noinit*)
+                0x0000000008001120                . = ALIGN (0x4)
+
+.data           0x0000000020000000       0x14 load address 0x0000000008001120
+                0x0000000020000000                _data = .
+ *(.data*)
+ .data.uxTopUsedPriority
+                0x0000000020000000        0x4 obj/inc/FreeRTOS/tasks.o
+                0x0000000020000000                uxTopUsedPriority
+ .data.uxCriticalNesting
+                0x0000000020000004        0x4 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .data.rcc_ahb_frequency
+                0x0000000020000008        0x4 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000020000008                rcc_ahb_frequency
+ .data.rcc_apb1_frequency
+                0x000000002000000c        0x4 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x000000002000000c                rcc_apb1_frequency
+ .data.rcc_apb2_frequency
+                0x0000000020000010        0x4 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                0x0000000020000010                rcc_apb2_frequency
+ *(.ramtext*)
+                0x0000000020000014                . = ALIGN (0x4)
+                0x0000000020000014                _edata = .
+                0x0000000008001120                _data_loadaddr = LOADADDR (.data)
+
+.igot.plt       0x0000000020000014        0x0 load address 0x0000000008001134
+ .igot.plt      0x0000000020000014        0x0 obj/src/main.o
+
+.bss            0x0000000020000014     0x3d24 load address 0x0000000008001134
+ *(.bss*)
+ .bss.pxCurrentTCB
+                0x0000000020000014        0x4 obj/inc/FreeRTOS/tasks.o
+                0x0000000020000014                pxCurrentTCB
+ .bss.pxDelayedTaskList
+                0x0000000020000018        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.pxOverflowDelayedTaskList
+                0x000000002000001c        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.pxReadyTasksLists
+                0x0000000020000020       0x64 obj/inc/FreeRTOS/tasks.o
+ .bss.uxCurrentNumberOfTasks
+                0x0000000020000084        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.uxDeletedTasksWaitingCleanUp
+                0x0000000020000088        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.uxSchedulerSuspended
+                0x000000002000008c        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.uxTaskNumber
+                0x0000000020000090        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.uxTopReadyPriority
+                0x0000000020000094        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.xDelayedTaskList1
+                0x0000000020000098       0x14 obj/inc/FreeRTOS/tasks.o
+ .bss.xDelayedTaskList2
+                0x00000000200000ac       0x14 obj/inc/FreeRTOS/tasks.o
+ .bss.xIdleTaskHandle
+                0x00000000200000c0        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.xNextTaskUnblockTime
+                0x00000000200000c4        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.xNumOfOverflows
+                0x00000000200000c8        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.xPendedTicks
+                0x00000000200000cc        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.xPendingReadyList
+                0x00000000200000d0       0x14 obj/inc/FreeRTOS/tasks.o
+ .bss.xSchedulerRunning
+                0x00000000200000e4        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.xSuspendedTaskList
+                0x00000000200000e8       0x14 obj/inc/FreeRTOS/tasks.o
+ .bss.xTasksWaitingTermination
+                0x00000000200000fc       0x14 obj/inc/FreeRTOS/tasks.o
+ .bss.xTickCount
+                0x0000000020000110        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.xYieldPending
+                0x0000000020000114        0x4 obj/inc/FreeRTOS/tasks.o
+ .bss.pxEnd     0x0000000020000118        0x4 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.ucHeap    0x000000002000011c     0x3c00 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xBlockAllocatedBit
+                0x0000000020003d1c        0x4 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xFreeBytesRemaining
+                0x0000000020003d20        0x4 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xMinimumEverFreeBytesRemaining
+                0x0000000020003d24        0x4 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xNumberOfSuccessfulAllocations
+                0x0000000020003d28        0x4 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xNumberOfSuccessfulFrees
+                0x0000000020003d2c        0x4 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .bss.xStart    0x0000000020003d30        0x8 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ *(COMMON)
+                0x0000000020003d38                . = ALIGN (0x4)
+                0x0000000020003d38                _ebss = .
+
+/DISCARD/
+ *(.eh_frame)
+                0x0000000020003d38                . = ALIGN (0x4)
+                0x0000000020003d38                end = .
+                0x0000000020020000                PROVIDE (_stack = (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(bin/main.elf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x0000000000000000     0x5a12
+ .debug_info    0x0000000000000000      0x848 obj/src/main.o
+ .debug_info    0x0000000000000848     0x221b obj/inc/FreeRTOS/tasks.o
+ .debug_info    0x0000000000002a63      0x2dd obj/inc/FreeRTOS/list.o
+ .debug_info    0x0000000000002d40      0x370 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_info    0x00000000000030b0      0x54b obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_info    0x00000000000035fb      0x266 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_info    0x0000000000003861      0x233 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_info    0x0000000000003a94      0x974 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_info    0x0000000000004408     0x1044 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_info    0x000000000000544c      0x2ee inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_info    0x000000000000573a       0xfc inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_info    0x0000000000005836       0xf4 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_info    0x000000000000592a       0xe8 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_abbrev   0x0000000000000000     0x1436
+ .debug_abbrev  0x0000000000000000      0x16e obj/src/main.o
+ .debug_abbrev  0x000000000000016e      0x455 obj/inc/FreeRTOS/tasks.o
+ .debug_abbrev  0x00000000000005c3      0x109 obj/inc/FreeRTOS/list.o
+ .debug_abbrev  0x00000000000006cc      0x21a obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_abbrev  0x00000000000008e6      0x249 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_abbrev  0x0000000000000b2f      0x116 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_abbrev  0x0000000000000c45       0xbf inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_abbrev  0x0000000000000d04      0x177 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_abbrev  0x0000000000000e7b      0x2ba inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_abbrev  0x0000000000001135      0x175 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_abbrev  0x00000000000012aa       0x9a inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_abbrev  0x0000000000001344       0x56 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_abbrev  0x000000000000139a       0x9c inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_loc      0x0000000000000000     0x2bb6
+ .debug_loc     0x0000000000000000       0x4a obj/src/main.o
+ .debug_loc     0x000000000000004a     0x1885 obj/inc/FreeRTOS/tasks.o
+ .debug_loc     0x00000000000018cf       0xaf obj/inc/FreeRTOS/list.o
+ .debug_loc     0x000000000000197e       0xce obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_loc     0x0000000000001a4c      0x420 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_loc     0x0000000000001e6c       0xbe inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_loc     0x0000000000001f2a      0x14f inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_loc     0x0000000000002079      0x120 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_loc     0x0000000000002199      0x867 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_loc     0x0000000000002a00      0x128 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_loc     0x0000000000002b28       0x47 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_loc     0x0000000000002b6f       0x47 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_aranges  0x0000000000000000      0x540
+ .debug_aranges
+                0x0000000000000000       0x30 obj/src/main.o
+ .debug_aranges
+                0x0000000000000030      0x150 obj/inc/FreeRTOS/tasks.o
+ .debug_aranges
+                0x0000000000000180       0x40 obj/inc/FreeRTOS/list.o
+ .debug_aranges
+                0x00000000000001c0       0x78 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_aranges
+                0x0000000000000238       0x50 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_aranges
+                0x0000000000000288       0x50 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_aranges
+                0x00000000000002d8       0x30 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_aranges
+                0x0000000000000308       0x60 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_aranges
+                0x0000000000000368      0x110 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_aranges
+                0x0000000000000478       0x28 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_aranges
+                0x00000000000004a0       0x38 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_aranges
+                0x00000000000004d8       0x48 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_aranges
+                0x0000000000000520       0x20 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_ranges   0x0000000000000000      0x680
+ .debug_ranges  0x0000000000000000       0x20 obj/src/main.o
+ .debug_ranges  0x0000000000000020      0x2f0 obj/inc/FreeRTOS/tasks.o
+ .debug_ranges  0x0000000000000310       0x30 obj/inc/FreeRTOS/list.o
+ .debug_ranges  0x0000000000000340       0x80 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_ranges  0x00000000000003c0       0x40 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_ranges  0x0000000000000400       0x40 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_ranges  0x0000000000000440       0x20 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_ranges  0x0000000000000460       0x50 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_ranges  0x00000000000004b0      0x148 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_ranges  0x00000000000005f8       0x18 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_ranges  0x0000000000000610       0x28 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_ranges  0x0000000000000638       0x38 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_ranges  0x0000000000000670       0x10 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_macro    0x0000000000000000     0x52d1
+ .debug_macro   0x0000000000000000      0x17d obj/src/main.o
+ .debug_macro   0x000000000000017d      0xa6c obj/src/main.o
+ .debug_macro   0x0000000000000be9      0x16d obj/src/main.o
+ .debug_macro   0x0000000000000d56       0x22 obj/src/main.o
+ .debug_macro   0x0000000000000d78       0x56 obj/src/main.o
+ .debug_macro   0x0000000000000dce       0x51 obj/src/main.o
+ .debug_macro   0x0000000000000e1f      0x103 obj/src/main.o
+ .debug_macro   0x0000000000000f22       0x6a obj/src/main.o
+ .debug_macro   0x0000000000000f8c      0x1df obj/src/main.o
+ .debug_macro   0x000000000000116b       0xe8 obj/src/main.o
+ .debug_macro   0x0000000000001253      0x15a obj/src/main.o
+ .debug_macro   0x00000000000013ad       0xe3 obj/src/main.o
+ .debug_macro   0x0000000000001490       0x28 obj/src/main.o
+ .debug_macro   0x00000000000014b8       0x1f obj/src/main.o
+ .debug_macro   0x00000000000014d7       0x12 obj/src/main.o
+ .debug_macro   0x00000000000014e9      0x519 obj/src/main.o
+ .debug_macro   0x0000000000001a02       0xb5 obj/src/main.o
+ .debug_macro   0x0000000000001ab7      0x120 obj/src/main.o
+ .debug_macro   0x0000000000001bd7       0x1c obj/src/main.o
+ .debug_macro   0x0000000000001bf3       0x22 obj/src/main.o
+ .debug_macro   0x0000000000001c15       0xe8 obj/src/main.o
+ .debug_macro   0x0000000000001cfd       0x76 obj/src/main.o
+ .debug_macro   0x0000000000001d73      0x279 obj/src/main.o
+ .debug_macro   0x0000000000001fec       0x8e obj/src/main.o
+ .debug_macro   0x000000000000207a       0x28 obj/src/main.o
+ .debug_macro   0x00000000000020a2      0xcea obj/src/main.o
+ .debug_macro   0x0000000000002d8c       0x76 obj/src/main.o
+ .debug_macro   0x0000000000002e02      0x37e obj/src/main.o
+ .debug_macro   0x0000000000003180       0xca obj/src/main.o
+ .debug_macro   0x000000000000324a      0x24d obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003497       0x1e obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x00000000000034b5       0x5e obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003513       0x5c obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x000000000000356f       0x35 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x00000000000035a4       0x34 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x00000000000035d8       0x16 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x00000000000035ee      0x10e obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x00000000000036fc       0x86 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003782       0x16 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003798       0x43 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x00000000000037db       0x57 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003832       0x34 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003866       0x10 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003876       0x58 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x00000000000038ce      0x182 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003a50      0x35d obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003dad       0x22 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003dcf       0x16 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003de5       0x35 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003e1a       0x91 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003eab       0x10 obj/inc/FreeRTOS/tasks.o
+ .debug_macro   0x0000000000003ebb      0x180 obj/inc/FreeRTOS/list.o
+ .debug_macro   0x000000000000403b      0x19b obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_macro   0x00000000000041d6      0x19b obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_macro   0x0000000000004371       0xd1 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_macro   0x0000000000004442       0xd1 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_macro   0x0000000000004513       0xf0 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_macro   0x0000000000004603      0x124 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000004727       0x16 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x000000000000473d       0x1c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x0000000000004759      0x143 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x000000000000489c       0x10 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_macro   0x00000000000048ac       0xd3 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x000000000000497f      0x452 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000004dd1       0x6e inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x0000000000004e3f      0x22c inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_macro   0x000000000000506b       0xd7 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_macro   0x0000000000005142       0xd7 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_macro   0x0000000000005219       0xb8 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_line     0x0000000000000000     0x51eb
+ .debug_line    0x0000000000000000      0x49a obj/src/main.o
+ .debug_line    0x000000000000049a     0x19f9 obj/inc/FreeRTOS/tasks.o
+ .debug_line    0x0000000000001e93      0x49a obj/inc/FreeRTOS/list.o
+ .debug_line    0x000000000000232d      0x4f6 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_line    0x0000000000002823      0x701 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_line    0x0000000000002f24      0x380 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_line    0x00000000000032a4      0x468 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_line    0x000000000000370c      0x3df inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_line    0x0000000000003aeb      0xa6c inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_line    0x0000000000004557      0x3d5 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_line    0x000000000000492c      0x320 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_line    0x0000000000004c4c      0x339 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_line    0x0000000000004f85      0x266 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_str      0x0000000000000000    0x182e1
+ .debug_str     0x0000000000000000     0xf510 obj/src/main.o
+                                       0xf774 (size before relaxing)
+ .debug_str     0x000000000000f510     0x4405 obj/inc/FreeRTOS/tasks.o
+                                       0xce83 (size before relaxing)
+ .debug_str     0x0000000000013915       0x5c obj/inc/FreeRTOS/list.o
+                                       0xa1cf (size before relaxing)
+ .debug_str     0x0000000000013971      0x6b0 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                                       0x9166 (size before relaxing)
+ .debug_str     0x0000000000014021      0x30f obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+                                       0xb66e (size before relaxing)
+ .debug_str     0x0000000000014330      0x1ad inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+                                       0x65a1 (size before relaxing)
+ .debug_str     0x00000000000144dd       0x8a inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+                                       0x65c3 (size before relaxing)
+ .debug_str     0x0000000000014567      0x475 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+                                       0x98e2 (size before relaxing)
+ .debug_str     0x00000000000149dc      0xb51 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                                       0xa143 (size before relaxing)
+ .debug_str     0x000000000001552d     0x2d03 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+                                       0x6e6b (size before relaxing)
+ .debug_str     0x0000000000018230       0x64 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+                                       0x58f8 (size before relaxing)
+ .debug_str     0x0000000000018294       0x47 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+                                       0x591a (size before relaxing)
+ .debug_str     0x00000000000182db        0x6 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+                                       0x54f6 (size before relaxing)
+
+.comment        0x0000000000000000       0x49
+ .comment       0x0000000000000000       0x49 obj/src/main.o
+                                         0x4a (size before relaxing)
+ .comment       0x0000000000000049       0x4a obj/inc/FreeRTOS/tasks.o
+ .comment       0x0000000000000049       0x4a obj/inc/FreeRTOS/list.o
+ .comment       0x0000000000000049       0x4a obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .comment       0x0000000000000049       0x4a obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .comment       0x0000000000000049       0x4a inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .comment       0x0000000000000049       0x4a inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .comment       0x0000000000000049       0x4a inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .comment       0x0000000000000049       0x4a inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .comment       0x0000000000000049       0x4a inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .comment       0x0000000000000049       0x4a inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .comment       0x0000000000000049       0x4a inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .comment       0x0000000000000049       0x4a inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.ARM.attributes
+                0x0000000000000000       0x32
+ .ARM.attributes
+                0x0000000000000000       0x34 obj/src/main.o
+ .ARM.attributes
+                0x0000000000000034       0x34 obj/inc/FreeRTOS/tasks.o
+ .ARM.attributes
+                0x0000000000000068       0x34 obj/inc/FreeRTOS/list.o
+ .ARM.attributes
+                0x000000000000009c       0x34 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .ARM.attributes
+                0x00000000000000d0       0x34 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .ARM.attributes
+                0x0000000000000104       0x34 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .ARM.attributes
+                0x0000000000000138       0x34 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .ARM.attributes
+                0x000000000000016c       0x34 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .ARM.attributes
+                0x00000000000001a0       0x34 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .ARM.attributes
+                0x00000000000001d4       0x34 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .ARM.attributes
+                0x0000000000000208       0x34 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .ARM.attributes
+                0x000000000000023c       0x34 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .ARM.attributes
+                0x0000000000000270       0x34 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+.debug_frame    0x0000000000000000      0xc3c
+ .debug_frame   0x0000000000000000       0x58 obj/src/main.o
+ .debug_frame   0x0000000000000058      0x498 obj/inc/FreeRTOS/tasks.o
+ .debug_frame   0x00000000000004f0       0x6c obj/inc/FreeRTOS/list.o
+ .debug_frame   0x000000000000055c       0xec obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+ .debug_frame   0x0000000000000648       0xc4 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+ .debug_frame   0x000000000000070c       0x80 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+ .debug_frame   0x000000000000078c       0x70 inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+ .debug_frame   0x00000000000007fc       0xe0 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+ .debug_frame   0x00000000000008dc      0x234 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+ .debug_frame   0x0000000000000b10       0x4c inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ .debug_frame   0x0000000000000b5c       0x50 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+ .debug_frame   0x0000000000000bac       0x70 inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+ .debug_frame   0x0000000000000c1c       0x20 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+
+Cross Reference Table
+
+Symbol                                            File
+__fini_array_end                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+__fini_array_start                                inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+__init_array_end                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+__init_array_start                                inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+__preinit_array_end                               inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+__preinit_array_start                             inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+_data                                             inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+_data_loadaddr                                    inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+_ebss                                             inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+_edata                                            inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+_stack                                            inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+adc_isr                                           inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+blocking_handler                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+bus_fault_handler                                 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+can1_rx0_isr                                      inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+can1_rx1_isr                                      inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+can1_sce_isr                                      inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+can1_tx_isr                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+can2_rx0_isr                                      inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+can2_rx1_isr                                      inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+can2_sce_isr                                      inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+can2_tx_isr                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+cryp_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dcmi_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+debug_monitor_handler                             inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma1_stream0_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma1_stream1_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma1_stream2_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma1_stream3_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma1_stream4_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma1_stream5_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma1_stream6_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma1_stream7_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma2_stream0_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma2_stream1_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma2_stream2_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma2_stream3_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma2_stream4_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma2_stream5_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma2_stream6_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma2_stream7_isr                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+dma2d_isr                                         inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+eth_isr                                           inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+eth_wkup_isr                                      inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+exti0_isr                                         inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+exti15_10_isr                                     inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+exti1_isr                                         inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+exti2_isr                                         inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+exti3_isr                                         inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+exti4_isr                                         inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+exti9_5_isr                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+flash_dcache_disable                              inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+                                                  inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+flash_dcache_enable                               inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+                                                  inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+flash_dcache_reset                                inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+flash_icache_disable                              inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+                                                  inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+flash_icache_enable                               inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+                                                  inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+flash_icache_reset                                inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_idcache.o)
+flash_isr                                         inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+flash_prefetch_disable                            inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+flash_prefetch_enable                             inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+flash_set_ws                                      inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+                                                  inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+flash_unlock_option_bytes                         inc/libopencm3/lib/libopencm3_stm32f4.a(flash_common_all.o)
+fpu_isr                                           inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+fsmc_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+gpio_clear                                        inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+gpio_get                                          inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+gpio_mode_setup                                   inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+                                                  obj/src/main.o
+gpio_port_config_lock                             inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+gpio_port_read                                    inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+gpio_port_write                                   inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+gpio_set                                          inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+gpio_set_af                                       inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+gpio_set_output_options                           inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_f0234.o)
+gpio_toggle                                       inc/libopencm3/lib/libopencm3_stm32f4.a(gpio_common_all.o)
+                                                  obj/src/main.o
+hard_fault_handler                                inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+hash_rng_isr                                      inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+i2c1_er_isr                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+i2c1_ev_isr                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+i2c2_er_isr                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+i2c2_ev_isr                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+i2c3_er_isr                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+i2c3_ev_isr                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+lcd_tft_err_isr                                   inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+lcd_tft_isr                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+main                                              obj/src/main.o
+                                                  inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+mem_manage_handler                                inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+memcpy                                            /opt/gcc-arm/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+                                                  obj/inc/FreeRTOS/queue.o
+nmi_handler                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+null_handler                                      inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+nvic_wwdg_isr                                     inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+otg_fs_isr                                        inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+otg_hs_ep1_in_isr                                 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+otg_hs_ep1_out_isr                                inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+otg_hs_isr                                        inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+otg_hs_wkup_isr                                   inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+pcQueueGetName                                    obj/inc/FreeRTOS/queue.o
+pcTaskGetName                                     obj/inc/FreeRTOS/tasks.o
+pend_sv_handler                                   obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+pvPortMalloc                                      obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+                                                  obj/inc/FreeRTOS/queue.o
+                                                  obj/inc/FreeRTOS/tasks.o
+pvd_isr                                           inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+pwr_set_vos_scale                                 inc/libopencm3/lib/libopencm3_stm32f4.a(pwr.o)
+                                                  inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+pxCurrentTCB                                      obj/inc/FreeRTOS/tasks.o
+                                                  obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+pxPortInitialiseStack                             obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                                                  obj/inc/FreeRTOS/tasks.o
+rcc_ahb_frequency                                 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_apb1_frequency                                inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_apb2_frequency                                inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_clock_setup_hse_3v3                           inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_clock_setup_pll                               inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                                                  obj/src/main.o
+rcc_css_disable                                   inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_css_enable                                    inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_css_int_clear                                 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_css_int_flag                                  inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_get_div_from_hpre                             inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+rcc_get_i2c_clk_freq                              inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_get_spi_clk_freq                              inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_get_timer_clk_freq                            inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_get_usart_clk_freq                            inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_hse_12mhz_3v3                                 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_hse_16mhz_3v3                                 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_hse_25mhz_3v3                                 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_hse_8mhz_3v3                                  inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                                                  obj/src/main.o
+rcc_hsi_configs                                   inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_is_osc_ready                                  inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_isr                                           inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+rcc_osc_bypass_disable                            inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+rcc_osc_bypass_enable                             inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+rcc_osc_off                                       inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_osc_on                                        inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_osc_ready_int_clear                           inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_osc_ready_int_disable                         inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_osc_ready_int_enable                          inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_osc_ready_int_flag                            inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_periph_clock_disable                          inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+rcc_periph_clock_enable                           inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+                                                  inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+                                                  obj/src/main.o
+rcc_periph_reset_hold                             inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+rcc_periph_reset_pulse                            inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+rcc_periph_reset_release                          inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+rcc_peripheral_clear_reset                        inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+rcc_peripheral_disable_clock                      inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+rcc_peripheral_enable_clock                       inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+rcc_peripheral_reset                              inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+rcc_plli2s_config                                 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_pllsai_config                                 inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_pllsai_postscalers                            inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_set_hpre                                      inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_set_main_pll_hse                              inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_set_main_pll_hsi                              inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_set_mco                                       inc/libopencm3/lib/libopencm3_stm32f4.a(rcc_common_all.o)
+rcc_set_pll_source                                inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_set_ppre1                                     inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_set_ppre2                                     inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_set_rtcpre                                    inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_set_sysclk_source                             inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_system_clock_source                           inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_wait_for_osc_ready                            inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+rcc_wait_for_sysclk_status                        inc/libopencm3/lib/libopencm3_stm32f4.a(rcc.o)
+reset_handler                                     inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+rtc_alarm_isr                                     inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+rtc_wkup_isr                                      inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+sai1_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+sdio_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+spi1_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+spi2_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+spi3_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+spi4_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+spi5_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+spi6_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+sv_call_handler                                   obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+sys_tick_handler                                  obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+tamp_stamp_isr                                    inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim1_brk_tim9_isr                                 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim1_cc_isr                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim1_trg_com_tim11_isr                            inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim1_up_tim10_isr                                 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim2_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim3_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim4_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim5_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim6_dac_isr                                      inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim7_isr                                          inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim8_brk_tim12_isr                                inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim8_cc_isr                                       inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim8_trg_com_tim14_isr                            inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+tim8_up_tim13_isr                                 inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+uart4_isr                                         inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+uart5_isr                                         inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+uart7_isr                                         inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+uart8_isr                                         inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+ulTaskGenericNotifyTake                           obj/inc/FreeRTOS/tasks.o
+ulTaskGenericNotifyValueClear                     obj/inc/FreeRTOS/tasks.o
+usage_fault_handler                               inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+usart1_isr                                        inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+usart2_isr                                        inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+usart3_isr                                        inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+usart6_isr                                        inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+usb_fs_wkup_isr                                   inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+uxListRemove                                      obj/inc/FreeRTOS/list.o
+                                                  obj/inc/FreeRTOS/tasks.o
+uxQueueMessagesWaiting                            obj/inc/FreeRTOS/queue.o
+uxQueueMessagesWaitingFromISR                     obj/inc/FreeRTOS/queue.o
+uxQueueSpacesAvailable                            obj/inc/FreeRTOS/queue.o
+uxTaskGetNumberOfTasks                            obj/inc/FreeRTOS/tasks.o
+uxTaskPriorityGet                                 obj/inc/FreeRTOS/tasks.o
+uxTaskPriorityGetFromISR                          obj/inc/FreeRTOS/tasks.o
+uxTaskResetEventItemValue                         obj/inc/FreeRTOS/tasks.o
+uxTopUsedPriority                                 obj/inc/FreeRTOS/tasks.o
+vListInitialise                                   obj/inc/FreeRTOS/list.o
+                                                  obj/inc/FreeRTOS/queue.o
+                                                  obj/inc/FreeRTOS/tasks.o
+vListInitialiseItem                               obj/inc/FreeRTOS/list.o
+                                                  obj/inc/FreeRTOS/tasks.o
+vListInsert                                       obj/inc/FreeRTOS/list.o
+                                                  obj/inc/FreeRTOS/tasks.o
+vListInsertEnd                                    obj/inc/FreeRTOS/list.o
+                                                  obj/inc/FreeRTOS/tasks.o
+vPortEndScheduler                                 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                                                  obj/inc/FreeRTOS/tasks.o
+vPortEnterCritical                                obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                                                  obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+                                                  obj/inc/FreeRTOS/queue.o
+                                                  obj/inc/FreeRTOS/tasks.o
+vPortExitCritical                                 obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                                                  obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+                                                  obj/inc/FreeRTOS/queue.o
+                                                  obj/inc/FreeRTOS/tasks.o
+vPortFree                                         obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+                                                  obj/inc/FreeRTOS/queue.o
+                                                  obj/inc/FreeRTOS/tasks.o
+vPortGetHeapStats                                 obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+vPortInitialiseBlocks                             obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+vPortSetupTimerInterrupt                          obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+vQueueAddToRegistry                               obj/inc/FreeRTOS/queue.o
+vQueueDelete                                      obj/inc/FreeRTOS/queue.o
+vQueueUnregisterQueue                             obj/inc/FreeRTOS/queue.o
+vTaskDelay                                        obj/inc/FreeRTOS/tasks.o
+                                                  obj/src/main.o
+vTaskDelete                                       obj/inc/FreeRTOS/tasks.o
+vTaskEndScheduler                                 obj/inc/FreeRTOS/tasks.o
+vTaskGenericNotifyGiveFromISR                     obj/inc/FreeRTOS/tasks.o
+vTaskInternalSetTimeOutState                      obj/inc/FreeRTOS/tasks.o
+                                                  obj/inc/FreeRTOS/queue.o
+vTaskMissedYield                                  obj/inc/FreeRTOS/tasks.o
+                                                  obj/inc/FreeRTOS/queue.o
+vTaskPlaceOnEventList                             obj/inc/FreeRTOS/tasks.o
+                                                  obj/inc/FreeRTOS/queue.o
+vTaskPlaceOnUnorderedEventList                    obj/inc/FreeRTOS/tasks.o
+vTaskPrioritySet                                  obj/inc/FreeRTOS/tasks.o
+vTaskRemoveFromUnorderedEventList                 obj/inc/FreeRTOS/tasks.o
+vTaskResume                                       obj/inc/FreeRTOS/tasks.o
+vTaskSetTimeOutState                              obj/inc/FreeRTOS/tasks.o
+vTaskStartScheduler                               obj/inc/FreeRTOS/tasks.o
+                                                  obj/src/main.o
+vTaskSuspend                                      obj/inc/FreeRTOS/tasks.o
+vTaskSuspendAll                                   obj/inc/FreeRTOS/tasks.o
+                                                  obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+                                                  obj/inc/FreeRTOS/queue.o
+vTaskSwitchContext                                obj/inc/FreeRTOS/tasks.o
+                                                  obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+vector_table                                      inc/libopencm3/lib/libopencm3_stm32f4.a(vector.o)
+xPortGetFreeHeapSize                              obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+xPortGetMinimumEverFreeHeapSize                   obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+xPortStartScheduler                               obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+                                                  obj/inc/FreeRTOS/tasks.o
+xQueueGenericCreate                               obj/inc/FreeRTOS/queue.o
+xQueueGenericReset                                obj/inc/FreeRTOS/queue.o
+xQueueGenericSend                                 obj/inc/FreeRTOS/queue.o
+xQueueGenericSendFromISR                          obj/inc/FreeRTOS/queue.o
+xQueueGiveFromISR                                 obj/inc/FreeRTOS/queue.o
+xQueueIsQueueEmptyFromISR                         obj/inc/FreeRTOS/queue.o
+xQueueIsQueueFullFromISR                          obj/inc/FreeRTOS/queue.o
+xQueuePeek                                        obj/inc/FreeRTOS/queue.o
+xQueuePeekFromISR                                 obj/inc/FreeRTOS/queue.o
+xQueueReceive                                     obj/inc/FreeRTOS/queue.o
+xQueueReceiveFromISR                              obj/inc/FreeRTOS/queue.o
+xQueueRegistry                                    obj/inc/FreeRTOS/queue.o
+xQueueSemaphoreTake                               obj/inc/FreeRTOS/queue.o
+xTaskCatchUpTicks                                 obj/inc/FreeRTOS/tasks.o
+xTaskCheckForTimeOut                              obj/inc/FreeRTOS/tasks.o
+                                                  obj/inc/FreeRTOS/queue.o
+xTaskCreate                                       obj/inc/FreeRTOS/tasks.o
+                                                  obj/src/main.o
+xTaskDelayUntil                                   obj/inc/FreeRTOS/tasks.o
+xTaskGenericNotify                                obj/inc/FreeRTOS/tasks.o
+xTaskGenericNotifyFromISR                         obj/inc/FreeRTOS/tasks.o
+xTaskGenericNotifyStateClear                      obj/inc/FreeRTOS/tasks.o
+xTaskGenericNotifyWait                            obj/inc/FreeRTOS/tasks.o
+xTaskGetTickCount                                 obj/inc/FreeRTOS/tasks.o
+xTaskGetTickCountFromISR                          obj/inc/FreeRTOS/tasks.o
+xTaskIncrementTick                                obj/inc/FreeRTOS/tasks.o
+                                                  obj/inc/FreeRTOS/portable/GCC/ARM_CM4F/port.o
+xTaskRemoveFromEventList                          obj/inc/FreeRTOS/tasks.o
+                                                  obj/inc/FreeRTOS/queue.o
+xTaskResumeAll                                    obj/inc/FreeRTOS/tasks.o
+                                                  obj/inc/FreeRTOS/portable/MemMang/heap_4.o
+                                                  obj/inc/FreeRTOS/queue.o
+xTaskResumeFromISR                                obj/inc/FreeRTOS/tasks.o
